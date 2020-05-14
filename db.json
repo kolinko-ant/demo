@@ -1,6 +1,6 @@
 {
   "events": [
-    { "id": 1, "title": "A'DAM LOOKOUT", "location": "Amsterdam", "time": "Open every day", "picture": "https://www.adamlookout.com/wp-content/uploads/overtheedge-1.jpg"},
+    { "id": 1, "title": "A'DAM LOOKOUT", "location": "Amsterdam", "time": "Open every day", "picture": "https://www.stromma.com/globalassets/netherlands/amsterdam/product_slideshows/sights/attractions/adam-lookout/tourist-attractions-in-amsterdam.jpg?width=999&format=webp"},
     { "id": 2, "title": "HEINEKEN EXPERIENCE", "location": "Utrecht", "time": "Open Mon-Fri", "picture": "https://www.amsterdam.info/sitemedia/photos-800/amsterdam_heineken_experience_building_location.jpg" },
     { "id": 3, "title": "ARTIS ZOO", "location": "Amsterdam", "time": "Open every day", "picture": "https://amsterdamdiary.com/wp-content/uploads/2017/10/Giraffe_polaroid_pictures_384x384.png" }
   ]
